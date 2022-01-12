@@ -1,0 +1,7 @@
+input[type="number"]{
+    min-height: 1.5rem;
+    min-width: 4rem;
+  }
+.active{
+    background-color:red
+  }
